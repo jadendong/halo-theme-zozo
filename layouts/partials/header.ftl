@@ -4,7 +4,7 @@
       <h1>
         <a href="${context!}">
           <span>${options.blog_title!}</span>
-          <img src="${static!}/static/images/logo.svg"/>
+          <#--  <img src="${static!}/static/images/logo.svg"/>  -->
         </a>
       </h1>
     </div>
